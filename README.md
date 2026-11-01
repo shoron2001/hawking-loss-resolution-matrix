@@ -26,20 +26,45 @@ The engine consists of decoupled, high-performance mathematical and visualizatio
 4. `checksum_validator.py` / `root_extractor.py`: Automated syntax validation layers utilized for LLM token cost reduction and context window optimization within the broader SN-GCLA ecosystem.
 
 ---
-## 📰 Mainstream Media Coverage & Public Recognition
 
-While this specific space-time paradox resolution framework represents a newly deployed architecture, the foundational core—**The Digital Road Method (DRM)**—and its principal researcher have been extensively recognized across mainstream national and international media platforms. These publications highlight our independent, self-sustained model development and the global registration of our preprints:
+## 📰 Global Media Features & Researcher's Journey Validation
 
-* **Featured Impact:** Extensively covered by prominent national and international news networks for pioneering mathematical pathfinders without institutional grants, establishing global preprint indexation benchmarks.
+Before the deployment of this space-time paradox resolution framework, the foundational architectural core—**The Digital Road Method (DRM)**—and the personal, self-sustained journey of the Principal Researcher achieved widespread recognition. These extensive features, published prior to this project, establish a verified structural baseline of credibility and cross-disciplinary acceptance:
+
+### 🌍 International Scientific Feature
+1. **Asia Research News (International / United Kingdom):** Officially profiled and featured by the international scientific journalism platform led by Dr. Magdeline Pokar. The feature specifically honors Mahmudul Hasan Shoron's breakthrough work as an autonomous, self-funded independent scholar, recognizing his ability to engineer advanced text-syntax data matrices entirely within a mobile computational environment.
+
+### 🇧🇩 National Press & Biographical Highlights (Pioneering Without Grants)
+The researcher's intellectual journey—rising as an independent scholar from Fulbaria without institutional financial backing—has been heavily documented across major national, divisional, and local news networks in Bangladesh, celebrating the personal resilience behind the mathematics:
+
+2. **The World Post 24 (National):** Featured as a *"Mathematical Pathfinder in Intellectual Innovation: Young Researcher Mahmudul Hasan Shoron,"* detailing the personal grit required to formulate complex structural linguistics independently. *(August 17–18, 2026)*
+3. **Daily Dhaka Protidin (National):** Documented his emergence in the international arena of talent, detailing the transformation of a young local scholar into a globally recognized matrix architect. *(August 15, 2026)*
+4. **TechZoom.TV (National):** Published a dedicated technical analysis titled *"A New Research Method by a Bangladeshi Researcher Without Any Institutional Grants,"* verifying the autonomous nature of the research cell. *(August 15, 2026)*
+5. **Daily Swajon (National):** Highlighted under the banner *"Surprise from Fulbaria's Researcher Shoron on the International Stage: The World Receives a Unique and New Research Method,"* focusing on his roots and the global impact of his self-directed studies. *(August 18, 2026)*
+6. **Daily Brahmaputra Express (National):** Featured full-page and digital print profiles highlighting independent model development and regional pride. *(August 19, 2026)*
+7. **Ajker Paper (National):** Profiled under *"Young Researcher Mahmudul Hasan Shoron on the Global Stage for Innovating a Mathematical Path,"* serving as a biographical testament to his architectural methodology before the expansion into space-time matrix physics. *(August 18, 2026)*
+8. **Daily Crime BD 24 (National):** Online portal cover story highlighting intellectual innovation, dataset structuralization, and global preprint indexation benchmarks. *(August 17, 2026)*
+
+*Note: The comprehensive archival press materials, full-page print layouts, and digital feature logs are securely preserved for institutional compliance and licensing audits, verifying the established public acceptance of the researcher's paradigm.*
 
 ---
-## 🔗 Global Academic Papers & Registries
 
-Our methodology, datasets, and mathematical parameters are peer-archived and index-tracked across leading global scientific registries under our core research publication:
+## 🔗 Global Academic Registries & Verified Data Indexes
 
-* **Official Science Feature Profile:** Asia Research News — Mahmudul Hasan Shoron
-* **SSRN Research Framework:** [View Research Papers & Legal Frameworks on SSRN](https://ssrn.com)
-* **Digital Object Identifier (DOI):** Locked via Zenodo/GitHub Integration for immutable dataset verification.
+The mathematical rules and foundational architectures governing this repository are fully citable, peer-archived, and index-tracked across leading global open-science registries and dataset repositories:
+
+* **Official Scholar Index:** Continuous citation and tracking via the [Mahmudul Hasan Shoron Google Scholar Profile](https://google.com "Mahmudul Hasan Shoron Google Scholar").
+* **SSRN Research Framework:** Immutable repository hosting foundational preprints and legal-computational frameworks, accessible via the official [SSRN Abstract Registry (Author ID: 6417189)](https://ssrn.com "SSRN Author Framework for Mahmudul Hasan Shoron").
+* **Mendeley Data Repository:** Open-science dataset validation and repository tracking for continuous replicability and empirical audit of discrete nonary matrix configurations.
+
+---
+
+## 🆔 Digital Object Identifiers (DOIs) & Immutable Registrations
+
+For global compliance, intellectual tracking, and scientific verification, the primary datasets and foundational research papers are locked under permanent global Digital Object Identifiers (DOIs):
+
+* **Foundational Paper DOI (Zenodo):** Indexed under permanent tracking for immutable dataset verification. (Reference Archive DOI: [https://doi.org](https://doi.org "Zenodo Publication DOI for MH Shoron") for *The Civic Sovereignty Jurisprudence: Neutralizing Institutional Corruption Through Jurimetrics, Modulo-9 Syntax Reduction, and Mandatory Free Public Accountability*).
+* **Core Architecture Dataset DOI:** Securely registered via the Zenodo-GitHub integration pipeline to preserve cross-border intellectual property bounds and structural timestamps before enterprise deployment.
 
 ---
 
