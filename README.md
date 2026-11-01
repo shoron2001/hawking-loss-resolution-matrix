@@ -1,5 +1,5 @@
 
-# Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
+# Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)⚙️
 
 ## 🌌 Core Framework: The 1-to-9 Prime Matrix via the Digital Road Method (DRM)
 
@@ -80,7 +80,6 @@ Developed and engineered entirely within a severely resource-constrained mobile 
 ***Intellectual Integrity Declaration:** Advanced LLM architectures were strictly employed as collaborative tools for academic formatting, LaTeX matrix equations rendering, and linguistic calibration, without compromising or altering the authentic ownership of the core mathematical and deterministic thesis manually computed by the author.*
 
 ---
----
 
 ## 💼 Enterprise Support & Technical Briefings
 
@@ -91,7 +90,7 @@ For licensing procurement, API sandbox access, or to schedule a 10-minute techni
 * ⚖️ Member, American Bar Association (ID: 06417189)
 * 🎓 Secretary of Student Affairs, Central Law College, Dhaka, Bangladesh
 * 🏢 **Organization:** Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
-* 📍 **Location:** Dhaka, Bangladesh
+* 📍 **Location:** Fulbaria, Mymensingh, Dhaka, Bangladesh
 * ✉️ **Official Communications:** shoronhasan74@gmail.com
 * 📞 **Direct Line:** +8801711759373
 
