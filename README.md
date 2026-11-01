@@ -51,20 +51,20 @@ The researcher's intellectual journey—rising as an independent scholar from Fu
 
 ## 🔗 Global Academic Registries & Verified Data Indexes
 
-The mathematical rules and foundational architectures governing this repository are fully citable, peer-archived, and index-tracked across leading global open-science registries and dataset repositories:
+The mathematical rules and foundational architectures governing this repository are fully citable, peer-archived, and index-tracked across leading global open-science registries:
 
-* **Official Scholar Index:** Continuous citation and tracking via the [Mahmudul Hasan Shoron Google Scholar Profile](https://google.com "Mahmudul Hasan Shoron Google Scholar").
-* **SSRN Research Framework:** Immutable repository hosting foundational preprints and legal-computational frameworks, accessible via the official [SSRN Abstract Registry (Author ID: 6417189)](https://ssrn.com "SSRN Author Framework for Mahmudul Hasan Shoron").
-* **Mendeley Data Repository:** Open-science dataset validation and repository tracking for continuous replicability and empirical audit of discrete nonary matrix configurations.
+* **Official Scholar Index:** Continuous citation and tracking via the [Mahmudul Hasan Shoron Google Scholar Profile](https://scholar.google.com/citations?user=6zuThugAAAAJ "Mahmudul Hasan Shoron Google Scholar").
+* **SSRN Research Framework:** The core repository hosting this specific preprint framework, fully retrievable through the [SSRN Abstract Registry (Abstract ID: 7584261)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7584261 "SSRN Abstract Indexing for The 1-to-9 Prime Matrix").
+* **Mendeley Data Repository:** Open-science dataset validation and repository tracking utilized for continuous replicability and empirical audit of the discrete 1-to-9 nonary matrix configurations.
 
 ---
 
 ## 🆔 Digital Object Identifiers (DOIs) & Immutable Registrations
 
-For global compliance, intellectual tracking, and scientific verification, the primary datasets and foundational research papers are locked under permanent global Digital Object Identifiers (DOIs):
+For global compliance, intellectual tracking, and scientific verification, the primary datasets and foundational research papers for this project are locked under permanent global Digital Object Identifiers (DOIs):
 
-* **Foundational Paper DOI (Zenodo):** Indexed under permanent tracking for immutable dataset verification. (Reference Archive DOI: [https://doi.org](https://doi.org "Zenodo Publication DOI for MH Shoron") for *The Civic Sovereignty Jurisprudence: Neutralizing Institutional Corruption Through Jurimetrics, Modulo-9 Syntax Reduction, and Mandatory Free Public Accountability*).
-* **Core Architecture Dataset DOI:** Securely registered via the Zenodo-GitHub integration pipeline to preserve cross-border intellectual property bounds and structural timestamps before enterprise deployment.
+* **Prime Matrix Core DOI (SSRN):** Permanently indexed under [DOI: 10.2139/ssrn.7584261](http://dx.doi.org/10.2139/ssrn.7584261 "SSRN Digital Object Identifier for The 1-to-9 Prime Matrix") for *The 1-to-9 Prime Matrix via the Digital Road Method: Resolving the Hawking Information Loss vs. Einstein-Quantum Conservation Debate in Space-Time*.
+* **Empirical Dataset DOI (Mendeley Data):** Securely registered via Elsevier under [DOI: 10.17632/g35mw4zm33.2](http://doi.org "Mendeley Data DOI for Shoron Prime Matrix Matrix Engine") to preserve invariant matrix wave path calculations and mathematical structural timestamps.
 
 ---
 
