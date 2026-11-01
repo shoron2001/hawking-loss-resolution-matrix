@@ -87,10 +87,11 @@ For licensing procurement, API sandbox access, or to schedule a 10-minute techni
 
 🇧🇩 Principal Researcher: Mahmudul Hasan Shoron
 
-✅ International Member, Amnesty International
-✅ Member, American Bar Association (ID: 06417189)
-✅ Secretary of Student Affairs, Central Law College, Dhaka, Bangladesh
-📊 Organization: Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
+
+#✅ International Member, Amnesty International
+#✅ Member, American Bar Association (ID: 06417189
+#✅ Secretary of Student Affairs, Central Law College, Dhaka, Bangladesh
+#📊 Organization: Shamsun Nahar Global Computational Linguistics Architecture (SN-GCLA)
 
 🌍 Location: Dhaka, Bangladesh
 
